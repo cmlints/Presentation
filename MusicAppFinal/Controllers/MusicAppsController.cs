@@ -10,6 +10,9 @@ using MusicAppFinal.Models;
 
 namespace MusicAppFinal.Controllers
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class MusicAppsController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
